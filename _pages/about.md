@@ -14,8 +14,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there. 👋
 
-I'm a Full Stack Developer primarily working in the Java & Kotlin world on the server side with some experience building apps in NodeJS and Python as well. On the front end side of the house I primarily work in ReactJS with some limited knowledge of Angular.
+I'm a Full Stack Developer primarily working in Java & Kotlin on the server side with some experience building apps in NodeJS and Python as well. On the front end I primarily work in ReactJS with some knowledge of Angular.
 
-Currently I'm an engineer at **[@Workiva](https://www.workiva.com/)** and previously **[@Cigna](https://www.cigna.com/)**.  I have a Masters in Computer Science from **[@Stevens](https://www.stevens.edu/)** and a Bachelors in Finance from **[@Rutgers](https://www.rutgers.edu/)**.
+Currently, I'm an engineer at **[@Workiva](https://www.workiva.com/)** and previously **[@Cigna](https://www.cigna.com/)**.  I have a Masters in Computer Science from **[@Stevens](https://www.stevens.edu/)** and a Bachelors in Finance from **[@Rutgers](https://www.rutgers.edu/)**.
 
-I love to keep up to date with technology, finance and the intersection of the two.  I also dabble a bit in Rust on the **[@Solana](https://solana.com/)** network .
+I love to keep up to date with technology, finance and the intersection of the two.  I also dabble a bit in Rust and smart contract development on the **[@Solana](https://solana.com/)** network.
+
+I am taking on additional clients at the moment.  If you are looking for software development, database design or cloud computing solutions definitely feel free to drop me a line.  
+

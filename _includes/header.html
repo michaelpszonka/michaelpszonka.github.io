@@ -41,7 +41,15 @@
               {% endif %}
             </a>
           </li>
-          {% endif %}
+            <li class="nav-item {% if page.title == 'resume' %}active{% endif %}">
+            <a class="nav-link" target="_blank" rel="noopener noreferrer" href="../assets/pdf/resume.pdf">
+                resume
+                {% if page.title == "resume" %}
+                <span class="sr-only">(current)</span>
+                {% endif %}
+            </a>
+        </li>
+            {% endif %}
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
