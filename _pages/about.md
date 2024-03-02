@@ -12,4 +12,4 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there. 👋
+Hi there 👋
